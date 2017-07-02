@@ -7,15 +7,15 @@ I love **coding**: &#8226;*Java* &#8226;*Javascript* &#8226; *NodeJS* &#8226;  *
 ## I am 
 a software developer, a data hound, and system thinker
 ## I value
-Agile Software Development 
-Source code management
-Database Design and Admin
-Integration
-System Interoperability
-Sharing
-Data mining
-Open Data
-Process design
+* &#8226; *Agile Software Development 
+* &#8226; *Source code management
+* &#8226; *Database Design and Admin
+* &#8226; *Integration
+* &#8226; *System Interoperability
+* &#8226; *Sharing
+* &#8226; *Data mining
+* &#8226; *Open Data
+* &#8226; *Process design
 
 ## I believe
 **interoperability is more important than features**
@@ -23,7 +23,7 @@ Process design
 **everything boils down to** &#8226; *Build* &#8226; *Measure* &#8226; *Learn*,  &#8226; *and Repeat* 
 
 ## I love  
-**application software**: &#8226; *MapInfo Professional*; &#8226;  *Balsamiq*
+**application software**: &#8226; *MapInfo Professional* &#8226; *Balsamiq*
 -**languages**: &#8226; *Java*  &#8226; *C++*; &#8226; *Javascript* &#8226; *TSQL* 
 -**process**: &#8226; *Agile*
 -**integration**: &#8226; *APIs* &#8226; *JSON* &#8226; *CSV* &#8226; *XML*
