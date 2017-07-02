@@ -1,6 +1,6 @@
 # James Wilfong
 
-I love **coding**: *Java*, *Javascript*, *NodeJS*, *SQL*; **databases**: *MongoDB*, *MSSQLServer*; **formats**: *JSON*, *CSV*, *XML*; **frameworks**: *NodeJS*; **platforms**: *Google Cloud*, *Dreamfactory* 
+I love **coding**: *Java*, *Javascript*, *NodeJS*, *SQL*; **databases**: *MongoDB*, *MSSQLServer*; **formats**: *JSON*, *CSV*, *XML*; **frameworks**: *NodeJS*; **platforms**: *Google Cloud*, *Dreamfactory*; **applications**, *NetBeans*, *MapInfo Professional* 
 
 | Competencies: | Professional Experience/Skills | Passions |
 | :-----------  |:-------------------------------| --------:|
