@@ -6,7 +6,7 @@ title: My page
 I love coding.
 
 | Competencies: | Professional Experience/Skills | Passions |
-| :-----------  |:------------------------------------| --------:|
+| :-----------  |:-------------------------------| --------:|
 |  Agile Software Development | Agile Project Management | Digital Ecosystems|
 |  Source code management     | Americans with Disabilities Act (ADA) Compliance | xxxxxxx|
 |  Database Design and Admin  | Data Integration | xxxxxxx|
