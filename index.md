@@ -42,19 +42,10 @@ Repository
 
 | Competencies: | Professional Experience/Skills | 
 | :-----------  |:-------------------------------| 
-
-|  xxx     | Americans with Disabilities Act (ADA) Compliance | 
-|  xxx  | xxx | 
-|  xx | Data Analytics | 
-|  xxx | xx | 
-|  xxx | xxx| 
+|  xxx | Americans with Disabilities Act (ADA) Compliance | 
+|  xxx | Data Analytics | 
 |  xxx | Server Security Hardening | 
 |  Project planning and execution | Software Development |
-|  xxx  | xxx|
-
-
-
-[Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 
 
