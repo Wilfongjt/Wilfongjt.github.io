@@ -11,16 +11,13 @@ a software developer, a data hound, and a system thinker
 Design, Data, Interoperability, Open Data, Process and Sharing.
 
 ## I have 
-&#8226; *Designed and Administered Databases* &#8226; *Administered Open Data Portal* &#8226; *Designed Processes* &#8226; *Mined Data* 
+&#8226; *Designed and Administered Databases* &#8226; *Administered Open Data Portal* &#8226; *Designed Processes* &#8226; *Mined Data* &#8226; *written an Android App* &#8226; *written Application Programming Interfaces*  
 ## I believe
 smaller code is better code
 
-**interoperability** is more important than features 
+**interoperability** depends on &#8226; *Incentivizing Participation*  &#8226; *Standardizing Data Exchange* &#8226; *a Shared understanding of Security and Privacy*   
 
 **everything boils down to** &#8226; *Build* &#8226; *Measure* &#8226; *Learn*,  &#8226; *and Repeat* 
-
-**language shouldn't matter**
-
 
 
 ## I love and use  
@@ -35,9 +32,7 @@ smaller code is better code
 &#8226; *Confusion*  &#8226; *Noise*  &#8226; *Little Direction*
 
 ## Interoperability
-Incentives
-Standardization of data exchange
-Shared understanding of Security and Privacy 
+
 
 Repository
 
