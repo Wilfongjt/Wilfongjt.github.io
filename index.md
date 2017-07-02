@@ -1,6 +1,6 @@
 # James Wilfong
 
-I have passion for &#8226; *Digital Ecosystems* &#8226; *Digital Government* &#8226; *Geographic Information* &#8226; *Lean Startups* &#8226; *Natural Language Processing* &#8226;*Open Data*
+
 
 ## I am 
 &#8226; *a software developer* &#8226; *a data hound* &#8226; *a system thinker*.
@@ -37,6 +37,8 @@ Design, Data, Interoperability, Open Data, Process and Sharing.
 
 ## I aspire to 
 
+
+ &#8226; *Digital Ecosystems* &#8226; *Digital Government* &#8226; *Geographic Information* &#8226; *Lean Startups* &#8226; *Natural Language Processing* &#8226;*Open Data*
 
 Repository
 
