@@ -15,7 +15,7 @@ I love **coding**: &#8226;*Java* &#8226;*Javascript* &#8226;*NodeJS*, *SQL*; **d
 **system software**:  &#8226; *Google Cloud* &#8226; *MongoDB*,  &#8226; *Microsoft SQL Server* &#8226; *Socrata* &#8226; *Dreamfactory*;
 **tools**: &#8226; *NetBeans* &#8226; *NodeJS*; 
 
-## I can live with a little: 
+## I can live with a little:  &#8226; *Confusion*; 
 
 | Competencies: | Professional Experience/Skills | Passions |
 | :-----------  |:-------------------------------| --------:|
@@ -30,12 +30,6 @@ I love **coding**: &#8226;*Java* &#8226;*Javascript* &#8226;*NodeJS*, *SQL*; **d
 |  Process design and automation  | Website Development | xxxxxxx|
 
 
-### Passions:
-- Digital Ecosystems
-- Digital Government
-- Lean Startups
-- Natural Language Processing
-- Open Data  Advocation
 
 [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
