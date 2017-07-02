@@ -7,7 +7,16 @@ I love **coding**: &#8226;*Java* &#8226;*Javascript* &#8226; *NodeJS* &#8226;  *
 ## I am 
 a software developer, a data hound, and system thinker
 ## I value
-Data
+Agile Software Development 
+Source code management
+Database Design and Admin
+Integration
+System Interoperability
+Sharing
+Data mining
+Open Data
+Process design
+
 ## I believe
 **interoperability is more important than features**
 
