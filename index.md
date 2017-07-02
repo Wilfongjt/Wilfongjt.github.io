@@ -6,6 +6,8 @@ title: My page
 I love coding.
 | Competencies| Professional Responsibilities/Skills | Passions |
 | ----------- |:------------------------------------:| --------:|
+| xxxxxxx     | xxxxxxx | xxxxxxx|
+
 ### Competencies:
 - Agile Software Development 
 - Source code management
