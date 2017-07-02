@@ -8,6 +8,7 @@ I love **coding**: &#8226;*Java* &#8226;*Javascript* &#8226; *NodeJS* &#8226;  *
 a software developer, a data hound, and system thinker
 ## I value
 &#8226; *Agile Software Development* &#8226; *Source Code Management* &#8226; *Database Design and Admin* &#8226; *Integration* &#8226; *System Interoperability* &#8226; *Sharing* &#8226; *Data Mining* &#8226; *Open Data* &#8226; *Process Design*
+## I have done
 
 ## I believe
 **code**: smaller is better
