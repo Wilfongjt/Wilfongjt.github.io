@@ -1,5 +1,5 @@
 ---
-title: My page
+H1: My page
 
 ## James Wilfong
 
