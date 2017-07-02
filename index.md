@@ -7,7 +7,7 @@ I love **coding**: &#8226;*Java* &#8226;*Javascript* &#8226; *NodeJS* &#8226;  *
 ## I am 
 a software developer, a data hound, and system thinker
 ## I value
-&#8226; *Agile Software Development* &#8226; *Source code management* &#8226; *Database Design and Admin* &#8226; *Integration* &#8226; *System Interoperability* &#8226; *Sharing* &#8226; *Data mining* &#8226; *Open Data* &#8226; *Process design*
+&#8226; *Agile Software Development* &#8226; *Source Code Management* &#8226; *Database Design and Admin* &#8226; *Integration* &#8226; *System Interoperability* &#8226; *Sharing* &#8226; *Data Mining* &#8226; *Open Data* &#8226; *Process Design*
 
 ## I believe
 **code**: smaller is better
@@ -35,17 +35,17 @@ Shared understanding of Security and Privacy
 
 Repository
 
-| Competencies: | Professional Experience/Skills | Passions |
-| :-----------  |:-------------------------------| --------:|
-|  Agile Software Development | Agile Project Management | |
-|  Source code management     | Americans with Disabilities Act (ADA) Compliance | xxxxxxx|
-|  Database Design and Admin  | Data Integration | xxxxxxx|
-|  Integration | Data Analytics | xxxxxxx|
-|  Data integration and sharing implementation | Data Analytics | xxxxxxx|
-|  Data mining | Geographic Informations Systems| xxxxxxx|
-|  Open Data Platform Administration | Server Security Hardening | xxxxxxx|
-|  Project planning and execution | Software Development | xxxxxxx|
-|  Process design and automation  | Website Development | xxxxxxx|
+| Competencies: | Professional Experience/Skills | 
+| :-----------  |:-------------------------------| 
+|  Agile Software Development | Agile Project Management |
+|  Source code management     | Americans with Disabilities Act (ADA) Compliance | 
+|  Database Design and Admin  | Data Integration | 
+|  Integration | Data Analytics | 
+|  Data integration and sharing implementation | Data Analytics | 
+|  Data mining | Geographic Informations Systems| 
+|  Open Data Platform Administration | Server Security Hardening | 
+|  Project planning and execution | Software Development |
+|  Process design and automation  | Website Development |
 
 
 
