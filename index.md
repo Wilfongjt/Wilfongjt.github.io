@@ -1,6 +1,6 @@
 ---
-H1: My page
-
+title: My page
+---
 ## James Wilfong
 
 I love coding.
