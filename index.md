@@ -2,7 +2,7 @@
 
 I have passion for - Digital Ecosystems - Digital Government - Lean Startups - Natural Language Processing - Open Data  Advocation
 
-I love **coding**: &#169;-*Java*, &#169;-*Javascript*, -*NodeJS*, *SQL*; **databases**: -*MongoDB*, -*MSSQLServer*; **formats**: -*JSON*, -*CSV*, -*XML*; **frameworks**:  *NodeJS*; **platforms**: -*Google Cloud*, -*Socrata*, -*Dreamfactory*; **applications**:  -*NetBeans*,  -*MapInfo Professional*,  -*MongoDB*,  -*Microsoft SQL Server*.
+I love **coding**: &#8226;-*Java*, &#8226;*Javascript*, -*NodeJS*, *SQL*; **databases**: -*MongoDB*, -*MSSQLServer*; **formats**: -*JSON*, -*CSV*, -*XML*; **frameworks**:  *NodeJS*; **platforms**: -*Google Cloud*, -*Socrata*, -*Dreamfactory*; **applications**:  -*NetBeans*,  -*MapInfo Professional*,  -*MongoDB*,  -*Microsoft SQL Server*.
 
 I can live with a little: 
 
