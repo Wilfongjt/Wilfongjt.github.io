@@ -18,7 +18,7 @@ I love **coding**: &#8226;*Java* &#8226;*Javascript* &#8226; *NodeJS* &#8226;  *
 **tools**: &#8226; *NetBeans* &#8226; *NodeJS* 
 
 ## I can work with a little  
-&#8226; *Confusion*;  &#8226; *Noise*;  &#8226; *Direction*; 
+&#8226; *Confusion*  &#8226; *Noise*  &#8226; *Direction*
 
 ## I believe everything boils down to
 &#8226; *Build* &#8226; *Measure* &#8226; *Learn*,  &#8226; *and Repeat* 
