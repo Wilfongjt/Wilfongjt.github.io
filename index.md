@@ -10,8 +10,8 @@ Design, Data, Interoperability, Open Data, Process and Sharing.
 
 ## I have 
 &#8226; *Designed and Administered Databases* &#8226; *Administered Open Data Portal* &#8226; *Designed Processes* &#8226; *Mined Data* &#8226; *written an Android App* &#8226; *written Application Programming Interfaces* 
-hosted a Code for America event
-hosted four Civic Hacking events
+&#8226; *hosted a Code for America event* 
+&#8226; *hosted four Civic Hacking events*
 
 ## I believe
 **share first** is the key to successful system development and operation
