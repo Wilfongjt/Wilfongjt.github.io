@@ -7,7 +7,7 @@ I love **coding**: &#8226;*Java* &#8226;*Javascript* &#8226; *NodeJS* &#8226;  *
 ## I am 
 a software developer, a data hound, and a system thinker
 ## I value
-&#8226; *Agile Software Development* &#8226; *Source Code Management* &#8226; *Database Design and Admin* &#8226; *Integration* &#8226; *System Interoperability* &#8226; *Sharing*&#8226; *Open Data* 
+&#8226; *Agile Software Development* &#8226; *Source Code Management* &#8226; *Database Design* &#8226; *Integration* &#8226; *System Interoperability* &#8226; *Sharing*&#8226; *Open Data* 
 Design, Data, Interoperability, Open Data, Process and Sharing.
 
 ## I have 
@@ -15,11 +15,13 @@ Design, Data, Interoperability, Open Data, Process and Sharing.
 ## I believe
 smaller code is better code
 
-interoperability is more important than features
+**interoperability** is more important than features 
 
 **everything boils down to** &#8226; *Build* &#8226; *Measure* &#8226; *Learn*,  &#8226; *and Repeat* 
 
-**language doesn't matter**
+**language shouldn't matter**
+
+
 
 ## I love and use  
 **application software**: &#8226; *MapInfo Professional* &#8226; *Balsamiq*
