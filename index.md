@@ -5,11 +5,29 @@ title: My page
 
 I love coding.
 
-You can use the [editor on GitHub](https://github.com/Wilfongjt/Wilfongjt.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Competencies:
+Agile Software Development and source code management
+Database Design and Administration
+Data integration and sharing implementation
+Data mining
+Open Data Platform Administration
+Project planning and execution
+Process design and automation
+### Professional Responsibilities/Skills:
+Agile Project Management
+Americans with Disabilities Act (ADA) Compliance
+Data Integration
+Data Analytics
+Geographic Informations Systems
+Server Security Hardening
+Software Development
+Website Development
+### Passions:
+Digital Ecosystems
+Digital Government
+Lean Startups
+Natural Language Processing
+Open Data  Advocation
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
