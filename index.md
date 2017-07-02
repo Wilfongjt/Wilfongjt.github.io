@@ -16,7 +16,7 @@ I love **coding**: &#8226;*Java* &#8226;*Javascript* &#8226; *NodeJS* &#8226;  *
 **tools**: &#8226; *NetBeans* &#8226; *NodeJS* 
 
 ## Work is
-&#8226; *Build*, &#8226; *Measure*, &#8226; *Learn*,  &#8226; *Learn* 
+&#8226; *Build*, &#8226; *Measure*, &#8226; *Learn*,  &#8226; *and repeat* 
 
 ## I can live with a little  
 &#8226; *Confusion*;  &#8226; *Noise*;  
