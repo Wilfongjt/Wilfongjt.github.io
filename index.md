@@ -10,13 +10,15 @@ Design, Data, Interoperability, Open Data, Process and Sharing.
 
 ## I have 
 **administered** Open Data Portal
+&#8226; *Designed Processes* 
 **designed, implemented and administered** &#8226; *a Geographic Information System* &#8226; *Relational, Object and NoSQl Databases* &#8226; *Internet and Intranet Web Sites, and Web Services (SOAP and Restful) 
+**developed**: Data Mining Software*  &#8226; *Requests for Proposals*
 **hosted**: &#8226; *a Code for America event* &#8226; *Four Civic Hacking events*
 **integrated** &#8226; *Android Applications* 
-**managed**: Multi-Department System Development
-**written**: Data Mining Software* 
+**managed**: &#8226; *Multi-Department System Development*
 
-&#8226; *Designed Processes* 
+
+
 
 ## I believe
 **share first** is the key to successful system development and operation
@@ -36,7 +38,7 @@ Design, Data, Interoperability, Open Data, Process and Sharing.
 ## I can work with  
 &#8226; *Confusion*  &#8226; *Noise*  &#8226; *Little Direction*
 
-## Interoperability
+## I aspire to
 
 
 Repository
