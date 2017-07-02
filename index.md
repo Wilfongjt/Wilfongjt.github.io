@@ -9,26 +9,26 @@ I love coding.
 - Agile Software Development 
 - Source code management
 - Database Design and Administration
-Data integration and sharing implementation
-Data mining
-Open Data Platform Administration
-Project planning and execution
-Process design and automation
+- Data integration and sharing implementation
+- Data mining
+- Open Data Platform Administration
+- Project planning and execution
+- Process design and automation
 ### Professional Responsibilities/Skills:
-Agile Project Management
-Americans with Disabilities Act (ADA) Compliance
-Data Integration
-Data Analytics
-Geographic Informations Systems
-Server Security Hardening
-Software Development
-Website Development
+- Agile Project Management
+- Americans with Disabilities Act (ADA) Compliance
+- Data Integration
+- Data Analytics
+- Geographic Informations Systems
+- Server Security Hardening
+- Software Development
+- Website Development
 ### Passions:
-Digital Ecosystems
-Digital Government
-Lean Startups
-Natural Language Processing
-Open Data  Advocation
+- Digital Ecosystems
+- Digital Government
+- Lean Startups
+- Natural Language Processing
+- Open Data  Advocation
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
