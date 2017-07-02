@@ -4,6 +4,7 @@ I have passion for &#8226; *Digital Ecosystems* &#8226; *Digital Government* &#8
 
 ## I am 
 &#8226; *a software developer* &#8226; *a data hound* &#8226; *a system thinker*
+
 ## I value
 &#8226; *Agile Software Development* &#8226; *Source Code Management* &#8226; *Database Design* &#8226; *Integration* &#8226; *System Interoperability* &#8226; *Sharing*&#8226; *Open Data* 
 Design, Data, Interoperability, Open Data, Process and Sharing.
@@ -16,9 +17,6 @@ Design, Data, Interoperability, Open Data, Process and Sharing.
 -**hosted**: &#8226; *a Code for America event* &#8226; *Four Civic Hacking events*  
 -**integrated** &#8226; *Android Applications* 
 -**managed**: &#8226; *Multi-Department System Development* 
-
-
-
 
 ## I believe
 **share first** is the key to successful system development and operation
