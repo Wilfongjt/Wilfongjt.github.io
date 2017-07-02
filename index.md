@@ -9,9 +9,9 @@ I have passion for &#8226; *Digital Ecosystems* &#8226; *Digital Government* &#8
 Design, Data, Interoperability, Open Data, Process and Sharing.
 
 ## I have 
-**administered** Open Data Portal
-&#8226; *Designed Processes* 
-**designed, implemented and administered** &#8226; *a Geographic Information System* &#8226; *Relational, Object and NoSQl Databases* &#8226; *Internet and Intranet Web Sites, and Web Services (SOAP and Restful) 
+**administered** an Open Data Portal
+**designed** &#8226; *Designed Processes* 
+**designed, implemented and administered** &#8226; *a Geographic Information System* &#8226; *Relational, Object and NoSQl Databases* &#8226; *Internet and Intranet Web Sites* &#8226; *and Web Services (SOAP and Restful)* 
 **developed**: Data Mining Software*  &#8226; *Requests for Proposals*
 **hosted**: &#8226; *a Code for America event* &#8226; *Four Civic Hacking events*
 **integrated** &#8226; *Android Applications* 
