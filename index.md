@@ -6,12 +6,12 @@ I love **coding**: &#8226;*Java* &#8226;*Javascript* &#8226;*NodeJS*, *SQL*; **d
 
 
 I love 
-**application software**: &#8226;*MapInfo Professional*; 
-**system software**:  &#8226;*Google Cloud*  &#8226;*MongoDB*,  &#8226;*Microsoft SQL Server* &#8226;*Socrata* &#8226;*Dreamfactory*;
-**tools**: &#8226;*NetBeans* &#8226;*NodeJS*; 
-**languages**: &#8226;*Java* &#8226;*Javascript* &#8226;*NodeJS*, *TSQL*;
-**process**: &#8226;*Agile*
-**integration**: &#8226;*APIs* &#8226;*JSON* &#8226;*CSV* &#8226;*XML*;
+**application software**: &#8226; *MapInfo Professional*; 
+**system software**:  &#8226; *Google Cloud* &#8226; *MongoDB*,  &#8226; *Microsoft SQL Server* &#8226; *Socrata* &#8226; *Dreamfactory*;
+**tools**: &#8226; *NetBeans* &#8226; *NodeJS*; 
+**languages**: &#8226; *Java* &#8226; *Javascript* &#8226; *NodeJS*, &#8226; *TSQL*;
+**process**: &#8226; *Agile*
+**integration**: &#8226; *APIs* &#8226; *JSON* &#8226; *CSV* &#8226; *XML*;
 
 
 I can live with a little: 
