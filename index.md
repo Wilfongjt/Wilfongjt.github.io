@@ -1,13 +1,10 @@
----
-title: My page
----
-## James Wilfong
+# James Wilfong
 
 I love coding.
 
 | Competencies: | Professional Experience/Skills | Passions |
 | :-----------  |:-------------------------------| --------:|
-|  Agile Software Development | Agile Project Management | Digital Ecosystems|
+|  Agile Software Development | Agile Project Management | |
 |  Source code management     | Americans with Disabilities Act (ADA) Compliance | xxxxxxx|
 |  Database Design and Admin  | Data Integration | xxxxxxx|
 |  Integration | Data Analytics | xxxxxxx|
@@ -18,17 +15,8 @@ I love coding.
 |  Process design and automation  | Website Development | xxxxxxx|
 
 
-### Professional Responsibilities/Skills:
--
-- 
-- 
-- 
-- 
-- 
-- 
-- 
 ### Passions:
-- 
+- Digital Ecosystems
 - Digital Government
 - Lean Startups
 - Natural Language Processing
