@@ -9,8 +9,10 @@ a software developer, a data hound, and system thinker
 ## I value
 Data
 ## I believe
-**everything boils down to** &#8226; *Build* &#8226; *Measure* &#8226; *Learn*,  &#8226; *and Repeat* 
 **interoperability is more important than features**
+
+**everything boils down to** &#8226; *Build* &#8226; *Measure* &#8226; *Learn*,  &#8226; *and Repeat* 
+
 ## I love  
 **application software**: &#8226; *MapInfo Professional*; &#8226;  *Balsamiq*
 -**languages**: &#8226; *Java*  &#8226; *C++*; &#8226; *Javascript* &#8226; *TSQL* 
