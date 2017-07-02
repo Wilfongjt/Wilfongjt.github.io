@@ -38,7 +38,7 @@ Design, Data, Interoperability, Open Data, Process and Sharing.
 ## I can work with  
 &#8226; *Confusion*  &#8226; *Noise*  &#8226; *Little Direction*
 
-## I aspire to
+## I aspire to 
 
 
 Repository
