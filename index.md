@@ -1,5 +1,6 @@
 # James Wilfong
 
+I have passion for - Digital Ecosystems - Digital Government - Lean Startups - Natural Language Processing - Open Data  Advocation
 I love **coding**: -*Java*, -*Javascript*, -*NodeJS*, *SQL*; **databases**: -*MongoDB*, -*MSSQLServer*; **formats**: -*JSON*, -*CSV*, -*XML*; **frameworks**:  *NodeJS*; **platforms**: -*Google Cloud*, -*Socrata*, -*Dreamfactory*; **applications**:  -*NetBeans*,  -*MapInfo Professional*,  -*MongoDB*,  -*Microsoft SQL Server*.
 
 | Competencies: | Professional Experience/Skills | Passions |
