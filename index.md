@@ -15,8 +15,13 @@ I love **coding**: &#8226;*Java* &#8226;*Javascript* &#8226; *NodeJS* &#8226;  *
 **system software**:  &#8226; *Google Cloud* &#8226; *MongoDB*  &#8226; *Microsoft SQL Server* &#8226; *Socrata* &#8226; *Dreamfactory*
 **tools**: &#8226; *NetBeans* &#8226; *NodeJS* 
 
+## Work is
+&#8226; *Build*, &#8226; *Measure*, &#8226; *Learn*,  &#8226; *Learn* 
+
 ## I can live with a little  
 &#8226; *Confusion*;  &#8226; *Noise*;  
+
+Repository
 
 | Competencies: | Professional Experience/Skills | Passions |
 | :-----------  |:-------------------------------| --------:|
