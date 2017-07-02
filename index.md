@@ -8,24 +8,24 @@ I love coding.
 | Competencies: | Professional Responsibilities/Skills | Passions |
 | :-----------  |:------------------------------------:| --------:|
 |  Agile Software Development |  Agile Project Management | Digital Ecosystems|
-|  Source code management | xxxxxxx | xxxxxxx|
-|  Database Design and Administration | xxxxxxx | xxxxxxx|
-|  Data integration and sharing implementation | xxxxxxx | xxxxxxx|
-|  Data mining | xxxxxxx | xxxxxxx|
-|  Open Data Platform Administration | xxxxxxx | xxxxxxx|
-|  Project planning and execution | xxxxxxx | xxxxxxx|
-|  Process design and automation | xxxxxxx | xxxxxxx|
+|  Source code management | Americans with Disabilities Act (ADA) Compliance | xxxxxxx|
+|  Database Design and Administration | Data Integration | xxxxxxx|
+|  Data integration and sharing implementation | Data Analytics | xxxxxxx|
+|  Data mining | Geographic Informations Systems| xxxxxxx|
+|  Open Data Platform Administration | Server Security Hardening | xxxxxxx|
+|  Project planning and execution | Software Development | xxxxxxx|
+|  Process design and automation | Website Development | xxxxxxx|
 
 
 ### Professional Responsibilities/Skills:
 -
-- Americans with Disabilities Act (ADA) Compliance
-- Data Integration
-- Data Analytics
-- Geographic Informations Systems
-- Server Security Hardening
-- Software Development
-- Website Development
+- 
+- 
+- 
+- 
+- 
+- 
+- 
 ### Passions:
 - 
 - Digital Government
