@@ -13,7 +13,7 @@ Design, Data, Interoperability, Open Data, Process and Sharing.
 ## I have 
 &#8226; *Designed and Administered Databases* &#8226; *Administered Open Data Portal* &#8226; *Designed Processes* &#8226; *Mined Data* &#8226; *written an Android App* &#8226; *written Application Programming Interfaces*  
 ## I believe
-smaller code is better code
+**share first** is the key to a successful system implementation
 
 **interoperability** depends on &#8226; *Incentivizing Participation*  &#8226; *Standardizing Data Exchange* &#8226; *a Shared understanding of Security and Privacy*   
 
