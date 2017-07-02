@@ -7,7 +7,7 @@ I love coding.
 
 | Competencies: | Professional Responsibilities/Skills | Passions |
 | :-----------  |:------------------------------------:| --------:|
-|  Agile Software Development | xxxxxxx | xxxxxxx|
+|  Agile Software Development |  Agile Project Management | Digital Ecosystems|
 |  Source code management | xxxxxxx | xxxxxxx|
 |  Database Design and Administration | xxxxxxx | xxxxxxx|
 |  Data integration and sharing implementation | xxxxxxx | xxxxxxx|
@@ -18,7 +18,7 @@ I love coding.
 
 
 ### Professional Responsibilities/Skills:
-- Agile Project Management
+-
 - Americans with Disabilities Act (ADA) Compliance
 - Data Integration
 - Data Analytics
@@ -27,7 +27,7 @@ I love coding.
 - Software Development
 - Website Development
 ### Passions:
-- Digital Ecosystems
+- 
 - Digital Government
 - Lean Startups
 - Natural Language Processing
