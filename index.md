@@ -5,12 +5,12 @@ title: My page
 
 I love coding.
 
-| Competencies | Professional Responsibilities/Skills | Passions |
+| ### Competencies: | Professional Responsibilities/Skills | Passions |
 | :-----------  |:------------------------------------:| --------:|
 |  Agile Software Development     | xxxxxxx | xxxxxxx|
 
-### Competencies:
-- Agile Software Development 
+
+
 - Source code management
 - Database Design and Administration
 - Data integration and sharing implementation
