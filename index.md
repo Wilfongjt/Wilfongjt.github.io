@@ -4,6 +4,8 @@ I have passion for &#8226; *Digital Ecosystems* &#8226; *Digital Government* &#8
 
 I love **coding**: &#8226;*Java* &#8226;*Javascript* &#8226; *NodeJS* &#8226;  *SQL* **databases**: &#8226;*MongoDB* &#8226; *MSSQLServer* **formats**: &#8226; *JSON* &#8226; *CSV* &#8226; *XML* **frameworks**: &#8226; *NodeJS*; **platforms**: &#8226; *Google Cloud* &#8226; *Socrata* &#8226; *Dreamfactory*; **applications**:  &#8226; *NetBeans*, &#8226; *MapInfo Professional*,  &#8226; *MongoDB*,  &#8226; *Microsoft SQL Server* **and of course** &#8226; *APIs* & &#8226;*Agile*.
 
+## I am 
+
 
 ## I love  
 **application software**: &#8226; *MapInfo Professional*; &#8226;  *Balsamiq*
@@ -15,11 +17,14 @@ I love **coding**: &#8226;*Java* &#8226;*Javascript* &#8226; *NodeJS* &#8226;  *
 **system software**:  &#8226; *Google Cloud* &#8226; *MongoDB*  &#8226; *Microsoft SQL Server* &#8226; *Socrata* &#8226; *Dreamfactory*
 **tools**: &#8226; *NetBeans* &#8226; *NodeJS* 
 
-## Work is
-&#8226; *Build*, &#8226; *Measure*, &#8226; *Learn*,  &#8226; *and repeat* 
+## Process boils down to
+&#8226; *Build*, &#8226; *Measure*, &#8226; *Learn*,  &#8226; *then repeat* 
 
-## I can live with a little  
-&#8226; *Confusion*;  &#8226; *Noise*;  
+## I can work with a little  
+&#8226; *Confusion*;  &#8226; *Noise*;  &#8226; *Direction*; 
+
+## 
+
 
 Repository
 
