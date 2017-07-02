@@ -5,11 +5,12 @@ title: My page
 
 I love coding.
 
-| Competencies: | Professional Responsibilities/Skills | Passions |
-| :-----------  |:------------------------------------:| --------:|
-|  Agile Software Development |  Agile Project Management | Digital Ecosystems|
+| Competencies: | Professional Experience/Skills | Passions |
+| :-----------  |:------------------------------------| --------:|
+|  Agile Software Development | Agile Project Management | Digital Ecosystems|
 |  Source code management     | Americans with Disabilities Act (ADA) Compliance | xxxxxxx|
-|  Database Design and Administration | Data Integration | xxxxxxx|
+|  Database Design and Admin  | Data Integration | xxxxxxx|
+|  Integration | Data Analytics | xxxxxxx|
 |  Data integration and sharing implementation | Data Analytics | xxxxxxx|
 |  Data mining | Geographic Informations Systems| xxxxxxx|
 |  Open Data Platform Administration | Server Security Hardening | xxxxxxx|
