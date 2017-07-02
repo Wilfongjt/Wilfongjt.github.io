@@ -3,7 +3,7 @@
 I have passion for &#8226; *Digital Ecosystems* &#8226; *Digital Government* &#8226; *Geographic Information* &#8226; *Lean Startups* &#8226; *Natural Language Processing* &#8226;*Open Data*
 
 ## I am 
-a software developer, a data hound, and a system thinker
+* &#8226; *a software developer* &#8226; *a data hound * &#8226; *a system thinker*
 ## I value
 &#8226; *Agile Software Development* &#8226; *Source Code Management* &#8226; *Database Design* &#8226; *Integration* &#8226; *System Interoperability* &#8226; *Sharing*&#8226; *Open Data* 
 Design, Data, Interoperability, Open Data, Process and Sharing.
