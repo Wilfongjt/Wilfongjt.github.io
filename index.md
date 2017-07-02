@@ -4,9 +4,10 @@ title: My page
 ## James Wilfong
 
 I love coding.
-| Competencies| Professional Responsibilities/Skills | Passions |
-| ----------- |:------------------------------------:| --------:|
-| xxxxxxx     | xxxxxxx | xxxxxxx|
+
+| Competencies | Professional Responsibilities/Skills | Passions |
+| -----------  |:------------------------------------:| --------:|
+| xxxxxxx      | xxxxxxx | xxxxxxx|
 
 ### Competencies:
 - Agile Software Development 
