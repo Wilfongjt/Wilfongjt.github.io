@@ -42,15 +42,15 @@ Repository
 
 | Competencies: | Professional Experience/Skills | 
 | :-----------  |:-------------------------------| 
-|  Agile Software Development | Agile Project Management |
-|  Source code management     | Americans with Disabilities Act (ADA) Compliance | 
-|  Database Design and Admin  | Data Integration | 
-|  Integration | Data Analytics | 
-|  Data integration and sharing implementation | Data Analytics | 
-|  Data mining | Geographic Informations Systems| 
-|  Open Data Platform Administration | Server Security Hardening | 
+
+|  xxx     | Americans with Disabilities Act (ADA) Compliance | 
+|  xxx  | xxx | 
+|  xx | Data Analytics | 
+|  xxx | xx | 
+|  xxx | xxx| 
+|  xxx | Server Security Hardening | 
 |  Project planning and execution | Software Development |
-|  Process design and automation  | Website Development |
+|  xxx  | xxx|
 
 
 
