@@ -2,8 +2,6 @@
 
 I have passion for &#8226; *Digital Ecosystems* &#8226; *Digital Government* &#8226; *Geographic Information* &#8226; *Lean Startups* &#8226; *Natural Language Processing* &#8226;*Open Data*
 
-I love **coding**: &#8226;*Java* &#8226;*Javascript* &#8226; *NodeJS* &#8226;  *SQL* **databases**: &#8226;*MongoDB* &#8226; *MSSQLServer* **formats**: &#8226; *JSON* &#8226; *CSV* &#8226; *XML* **frameworks**: &#8226; *NodeJS*; **platforms**: &#8226; *Google Cloud* &#8226; *Socrata* &#8226; *Dreamfactory*; **applications**:  &#8226; *NetBeans*, &#8226; *MapInfo Professional*,  &#8226; *MongoDB*,  &#8226; *Microsoft SQL Server* **and of course** &#8226; *APIs* & &#8226;*Agile*.
-
 ## I am 
 a software developer, a data hound, and a system thinker
 ## I value
@@ -11,14 +9,16 @@ a software developer, a data hound, and a system thinker
 Design, Data, Interoperability, Open Data, Process and Sharing.
 
 ## I have 
-&#8226; *Designed and Administered Databases* &#8226; *Administered Open Data Portal* &#8226; *Designed Processes* &#8226; *Mined Data* &#8226; *written an Android App* &#8226; *written Application Programming Interfaces*  
+&#8226; *Designed and Administered Databases* &#8226; *Administered Open Data Portal* &#8226; *Designed Processes* &#8226; *Mined Data* &#8226; *written an Android App* &#8226; *written Application Programming Interfaces* 
+hosted a Code for America event
+hosted four Civic Hacking events
+
 ## I believe
 **share first** is the key to successful system development and operation
 
 **interoperability** depends on &#8226; *Incentivizing Participation*  &#8226; *Standardizing Data Exchange* &#8226; *a Shared understanding of Security and Privacy*   
 
 **everything boils down to** &#8226; *Build* &#8226; *Measure* &#8226; *Learn*,  &#8226; *and Repeat* 
-
 
 ## I love and use  
 **application software**: &#8226; *MapInfo Professional* &#8226; *Balsamiq*
