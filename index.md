@@ -6,7 +6,7 @@ title: My page
 I love coding.
 
 ### Competencies:
-Agile Software Development and source code management
+- Agile Software Development and source code management
 Database Design and Administration
 Data integration and sharing implementation
 Data mining
