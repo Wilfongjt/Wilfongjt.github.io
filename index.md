@@ -9,7 +9,7 @@ I have passion for &#8226; *Digital Ecosystems* &#8226; *Digital Government* &#8
 Design, Data, Interoperability, Open Data, Process and Sharing.
 
 ## I have 
-&#8226; *Designed and Administered Databases* &#8226; *Administered Open Data Portal* &#8226; *Designed Processes* &#8226; *Mined Data* &#8226; *written an Android App* &#8226; *written Application Programming Interfaces* 
+&#8226; *Designed and Administered Databases* &#8226; *Administered Open Data Portal* &#8226; *Designed Processes* &#8226; *Mined Data* &#8226; *designed and built Web Site Applications* &#8226; *written an Android App* &#8226; *written Application Programming Interfaces* 
 &#8226; *hosted a Code for America event* 
 &#8226; *hosted four Civic Hacking events*
 
