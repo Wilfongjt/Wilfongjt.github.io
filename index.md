@@ -20,9 +20,9 @@ Design, Data, Interoperability, Open Data, Process and Sharing.
 -**managed**: &#8226; *Multi-Department System Development* 
 
 ## I believe
-**share first** is the key to successful system development and operation
-**interoperability** depends on &#8226; *Incentivizing Participation*  &#8226; *Standardizing Data Exchange* &#8226; *a Shared understanding of Security and Privacy*   
-**everything boils down to** &#8226; *Build* &#8226; *Measure* &#8226; *Learn*,  &#8226; *and Repeat* 
+**share first** is the key to successful system development and operation.
+**interoperability** depends on &#8226; *Incentivizing Participation*  &#8226; *Standardizing Data Exchange* &#8226; *a Shared understanding of Security and Privacy*.   
+**everything boils down to** &#8226; *Build* &#8226; *Measure* &#8226; *Learn*,  &#8226; *and Repeat*. 
 
 ## I love and use  
 **application software**: &#8226; *MapInfo Professional* &#8226; *Balsamiq*
