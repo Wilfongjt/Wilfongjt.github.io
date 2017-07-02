@@ -5,19 +5,18 @@ title: My page
 
 I love coding.
 
-| ### Competencies: | Professional Responsibilities/Skills | Passions |
+| Competencies: | Professional Responsibilities/Skills | Passions |
 | :-----------  |:------------------------------------:| --------:|
-|  Agile Software Development     | xxxxxxx | xxxxxxx|
+|  Agile Software Development | xxxxxxx | xxxxxxx|
+|  Source code management | xxxxxxx | xxxxxxx|
+|  Database Design and Administration | xxxxxxx | xxxxxxx|
+|  Data integration and sharing implementation | xxxxxxx | xxxxxxx|
+|  Data mining | xxxxxxx | xxxxxxx|
+|  Open Data Platform Administration | xxxxxxx | xxxxxxx|
+|  Project planning and execution | xxxxxxx | xxxxxxx|
+|  Process design and automation | xxxxxxx | xxxxxxx|
 
 
-
-- Source code management
-- Database Design and Administration
-- Data integration and sharing implementation
-- Data mining
-- Open Data Platform Administration
-- Project planning and execution
-- Process design and automation
 ### Professional Responsibilities/Skills:
 - Agile Project Management
 - Americans with Disabilities Act (ADA) Compliance
