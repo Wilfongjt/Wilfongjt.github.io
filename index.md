@@ -10,6 +10,7 @@ a software developer, a data hound, and system thinker
 Data
 ## I believe
 **everything boils down to** &#8226; *Build* &#8226; *Measure* &#8226; *Learn*,  &#8226; *and Repeat* 
+**interoperability is more important than features**
 ## I love  
 **application software**: &#8226; *MapInfo Professional*; &#8226;  *Balsamiq*
 -**languages**: &#8226; *Java*  &#8226; *C++*; &#8226; *Javascript* &#8226; *TSQL* 
@@ -18,12 +19,13 @@ Data
 **system software**:  &#8226; *Google Cloud* &#8226; *MongoDB*  &#8226; *Microsoft SQL Server* &#8226; *Socrata* &#8226; *Dreamfactory*
 **tools**: &#8226; *NetBeans* &#8226; *NodeJS* 
 
-## I can work with a little  
-&#8226; *Confusion*  &#8226; *Noise*  &#8226; *Direction*
+## I can work with  
+&#8226; *Confusion*  &#8226; *Noise*  &#8226; *Little Direction*
 
-
-
-Integration 
+## Interoperability
+Incentives
+Standardization of data exchange
+Shared understanding of Security and Privacy 
 
 Repository
 
