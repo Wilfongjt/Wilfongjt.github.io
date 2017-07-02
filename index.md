@@ -30,9 +30,8 @@ I love coding.
 - Natural Language Processing
 - Open Data  Advocation
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-```markdown
 Syntax highlighted code block
 
 # Header 1
