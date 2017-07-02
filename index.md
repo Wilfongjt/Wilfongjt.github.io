@@ -1,6 +1,6 @@
 # James Wilfong
 
-I love **Coding**: *Java*, *Javascript*, *NodeJS*
+I love **Coding**: *Java*, *Javascript*, *NodeJS*, *SQL*; **Data**: *JSON*, *CSV*
 
 | Competencies: | Professional Experience/Skills | Passions |
 | :-----------  |:-------------------------------| --------:|
