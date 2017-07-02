@@ -5,11 +5,13 @@ I have passion for &#8226; *Digital Ecosystems* &#8226; *Digital Government* &#8
 I love **coding**: &#8226;*Java* &#8226;*Javascript* &#8226; *NodeJS* &#8226;  *SQL* **databases**: &#8226;*MongoDB* &#8226; *MSSQLServer* **formats**: &#8226; *JSON* &#8226; *CSV* &#8226; *XML* **frameworks**: &#8226; *NodeJS*; **platforms**: &#8226; *Google Cloud* &#8226; *Socrata* &#8226; *Dreamfactory*; **applications**:  &#8226; *NetBeans*, &#8226; *MapInfo Professional*,  &#8226; *MongoDB*,  &#8226; *Microsoft SQL Server* **and of course** &#8226; *APIs* & &#8226;*Agile*.
 
 ## I am 
-a software developer, a data hound, and system thinker
+a software developer, a data hound, and a system thinker
 ## I value
-&#8226; *Agile Software Development* &#8226; *Source Code Management* &#8226; *Database Design and Admin* &#8226; *Integration* &#8226; *System Interoperability* &#8226; *Sharing* &#8226; *Data Mining* &#8226; *Open Data* &#8226; *Process Design*
-## I have done
+&#8226; *Agile Software Development* &#8226; *Source Code Management* &#8226; *Database Design and Admin* &#8226; *Integration* &#8226; *System Interoperability* &#8226; *Sharing*&#8226; *Open Data* 
+Design, Data, Interoperability, Open Data, Process and Sharing.
 
+## I have 
+&#8226; *Designed and Administered Databases* &#8226; *Administered Open Data Portal* &#8226; *Designed Processes* &#8226; *Mined Data* 
 ## I believe
 **code**: smaller is better
 
