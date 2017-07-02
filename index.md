@@ -1,6 +1,6 @@
 ---
 title: My page
----
+
 ## James Wilfong
 
 I love coding.
