@@ -29,7 +29,7 @@ smaller code is better code
 -**process**: &#8226; *Agile*
 -**integration**: &#8226; *APIs* &#8226; *JSON* &#8226; *CSV* &#8226; *XML*
 **system software**:  &#8226; *Google Cloud* &#8226; *MongoDB*  &#8226; *Microsoft SQL Server* &#8226; *Socrata* &#8226; *Dreamfactory*
-**tools**: &#8226; *NetBeans* &#8226; *NodeJS* 
+**tools**: &#8226; *NetBeans* &#8226; *NodeJS* &#8226; *JQuery* &#8226; *Bootstrap*
 
 ## I can work with  
 &#8226; *Confusion*  &#8226; *Noise*  &#8226; *Little Direction*
