@@ -1,14 +1,10 @@
 # James Wilfong
 
-
-
 ## I am 
 &#8226; *a software developer* &#8226; *a data hound* &#8226; *a system thinker*.
 
 ## I value
-&#8226; *Agile Software Development* &#8226; *Source Code Management* &#8226; *Database Design* &#8226; *Integration* &#8226; *System Interoperability* &#8226; *Sharing*&#8226; *Open Data* 
-
-Design, Data, Interoperability, Open Data, Process and Sharing.
+&#8226; *Agile Software Development* &#8226; *Source Code Management* &#8226; *Database Design* &#8226; *Integration* &#8226; *System Interoperability* &#8226; *Sharing* &#8226; *Open Data*  
 
 ## I have 
 -**administered**- an Open Data Portal. 
@@ -35,20 +31,5 @@ Design, Data, Interoperability, Open Data, Process and Sharing.
 ## I can work with  
 &#8226; *Confusion*  &#8226; *Noise*  &#8226; *Little Direction*.
 
-## I aspire to 
-
-
- &#8226; *Digital Ecosystems* &#8226; *Digital Government* &#8226; *Geographic Information* &#8226; *Lean Startups* &#8226; *Natural Language Processing* &#8226;*Open Data*
-
-Repository
-
-| Competencies: | Professional Experience/Skills | 
-| :-----------  |:-------------------------------| 
-|  xxx | Americans with Disabilities Act (ADA) Compliance | 
-|  xxx | Data Analytics | 
-|  xxx | Server Security Hardening | 
-|  Project planning and execution | Software Development |
-
-
-
-
+## I am interested in 
+&#8226; *Digital Ecosystems* &#8226; *Digital Government* &#8226; *Geographic Information* &#8226; *Lean Startups* &#8226; *Natural Language Processing* &#8226;*Open Data*
