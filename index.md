@@ -21,7 +21,7 @@
 **everything boils down to** &#8226; *Build* &#8226; *Measure* &#8226; *Learn*,  &#8226; *and Repeat*. 
 
 ## I love and use  
--**application software**- &#8226; *MapInfo Professional* &#8226; *Balsamiq*.
+**application software**- &#8226; *MapInfo Professional* &#8226; *Balsamiq*.
 -**languages**- &#8226; *Java*  &#8226; *C++*; &#8226; *Javascript* &#8226; *TSQL*. 
 -**process**- &#8226; *Agile*.
 -**integration**- &#8226; *APIs* &#8226; *JSON* &#8226; *CSV* &#8226; *XML*.
