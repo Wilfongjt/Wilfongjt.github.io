@@ -4,7 +4,7 @@
 &#8226; *a software developer* &#8226; *a data hound* &#8226; *a system thinker*.
 
 ## I value
-&#8226; *Agile Software Development* &#8226; *Source Code Management* &#8226; *Database Design* &#8226; *Integration* &#8226; *System Interoperability* &#8226; *Sharing* &#8226; *Open Data*  
+&#8226; *Agile Software Development* &#8226; *Source Code Management* &#8226; *Database Design* &#8226; *Integration* &#8226; *System Interoperability* &#8226; *Sharing* &#8226; *Open Data*.  
 
 ## I have 
 -**administered**- an Open Data Portal. 
@@ -32,6 +32,6 @@
 &#8226; *Confusion*  &#8226; *Noise*  &#8226; *Little Direction*.
 
 ## I am interested in 
-&#8226; *Digital Ecosystems* &#8226; *Digital Government* &#8226; *Geographic Information* &#8226; *Lean Startups* &#8226; *Natural Language Processing* &#8226;*Open Data*
+&#8226; *Digital Ecosystems* &#8226; *Digital Government* &#8226; *Geographic Information* &#8226; *Lean Startups* &#8226; *Natural Language Processing* &#8226;*Open Data*.
 
 
