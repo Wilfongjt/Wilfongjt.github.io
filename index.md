@@ -27,7 +27,7 @@
 &#8226; *Digital Ecosystems* &#8226; *Digital Government* &#8226; *Geographic Information* &#8226; *Lean Startups* &#8226; *Natural Language Processing* &#8226;*Open Data*.
 
 ## I can work with  
-&#8226; *Confusion*  &#8226; *Noise*  &#8226; *with Little Direction*.
+&#8226; *Confusion*  &#8226; *Noise*  &#8226; *and Little Direction*.
 
 
 
