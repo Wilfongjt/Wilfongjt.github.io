@@ -1,7 +1,7 @@
 # James Wilfong
 
 ## I am 
-&#8226; *a software developer* &#8226; *a data hound* &#8226; *a system thinker*.
+&#8226; *a software developer* &#8226; *a data hound* &#8226; *a systems thinker* &#8226; *a contributin member at Citizen Labs* .
 
 ## I value
 &#8226; *Agile Software Development* &#8226; *Source Code Management* &#8226; *Database Design* &#8226; *Integration* &#8226; *System Interoperability* &#8226; *Sharing* &#8226; *Open Data*.  
