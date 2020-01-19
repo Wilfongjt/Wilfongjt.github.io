@@ -6,15 +6,25 @@
 ## I believe
 **share first** is the key to successful system development and operation.
 **interoperability** depends on &#8226; *Incentivizing Participation*  &#8226; *Standardizing Data Exchange* &#8226; *having a Shared understanding of Security and Privacy*.   
-**everything boils down to** &#8226; *Build* something that works &#8226; *Measure* &#8226; *Learn*,  &#8226; *and Repeat*. 
+**everything boils down to** &#8226; *Build* something that works &#8226; *Measure* the value &#8226; *Learn* to improve the product,  &#8226; *and Repeat*. 
 
 
 ## I value
 &#8226; *Agile Software Development* &#8226; *Source Code Management* &#8226; *Database Design* &#8226; *Integration* &#8226; *System Interoperability* &#8226; *Sharing* &#8226; *Open Data* &#8226; *Security*.  
 
 ## I have 
-**administered**  an Open Data Portal. **designed**  &#8226; *Business Processes*. **designed, implemented and administered**  &#8226; *a Geographic Information System* &#8226; *Relational, Object and NoSQl Databases* &#8226; *Internet and Intranet Web Sites* &#8226; *and Web Services (SOAP and Restful)*. **developed**  *Data Mining Software*  &#8226; *Requests for Proposals*  &#8226; *Business Requirements*. **hosted**  &#8226; *a Code for America event* &#8226; *Four Civic Hacking events*.  **integrated**  &#8226; *Android Applications*. **managed**  &#8226; *Multi-Department System Development*. 
+**administered**  an Open Data Portal. **design**  &#8226; *Business Processes*. **designed, implemented and administered**  &#8226; *a Geographic Information System* &#8226; *Relational, Object and NoSQl Databases* &#8226; *Internet and Intranet Web Sites* &#8226; *and Web Services (SOAP and Restful)*. **developed**  *Data Mining Software*  &#8226; *Requests for Proposals*  &#8226; *Business Requirements*. **hosted**  &#8226; *a Code for America event* &#8226; *Four Civic Hacking events*. **managed**  &#8226; *Multi-Department System Development*. 
 
+## I can 
+**administer** &#8226; *a Geographic Information System  &#8226;an Open Data Portal, &#8226; *Relational, Object and NoSQl Databases* &#8226; *Internet and Intranet Web Sites* &#8226; *and Web Services*
+
+**design** &#8226; *a Geographic Information System  &#8226;an Open Data Portal, &#8226; *Relational, Object and NoSQl Databases* &#8226; *Internet and Intranet Web Sites* &#8226; *and Web Services*
+
+**developed**  *Data Mining Software*  &#8226; *Requests for Proposals*  &#8226; *Business Requirements*. 
+
+**manage**  &#8226; *Cross-Department System Development*. 
+
+**host**  &#8226; *a Code for America event* &#8226; *Four Civic Hacking events*.
 
 ## I love and use  
 **application software**  &#8226; *MapInfo Professional* &#8226; *Balsamiq*.
