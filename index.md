@@ -5,7 +5,7 @@
 
 ## I believe
 **share first** is the key to successful system development and operation.
-**interoperability** depends on &#8226; *Incentivizing Participation*  &#8226; *Standardizing Data Exchange* &#8226; *a Shared understanding of Security and Privacy*.   
+**interoperability** depends on &#8226; *Incentivizing Participation*  &#8226; *Standardizing Data Exchange* &#8226; *having a Shared understanding of Security and Privacy*.   
 **everything boils down to** &#8226; *Build* &#8226; *Measure* &#8226; *Learn*,  &#8226; *and Repeat*. 
 
 
